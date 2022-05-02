@@ -1,0 +1,3 @@
+function amo(){
+    alert('ei')
+}
